@@ -1,6 +1,6 @@
 <div align="center">
 
-
+![](https://komarev.com/ghpvc/?username=haiiilmary)
 
  # . . . welcome
 
