@@ -1,4 +1,5 @@
-<p align="center">
+<div align="center">
+
 
  # . . . welcome
 ![sghd](https://i.pinimg.com/1200x/25/63/cf/2563cf26eb37a3148400e3c5f7fcc93a.jpg)
@@ -7,4 +8,4 @@
 
 hail mary , forgive me
 
-</p>
+</div>
